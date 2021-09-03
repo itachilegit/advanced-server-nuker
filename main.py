@@ -7,19 +7,19 @@ import asyncio
 
 # Check readme.md for lastest updates
 
-token = "PasteHere"
+token = "ODgyOTExMTM0NzM3MzkxNjQ2.YTCREg.0LjgFeyv5T05OHr0kVA6a66O2yc"
 
 # If you are having issues, watch this video: https://streamable.com/7eovst or follow message listed below
 
 #  If it says Shared ID None is requesting privileged intents, go to discord developer portal and go to your bot and click on the bot tab and then scroll down to where it says privileged gateway intents and enable both, then it should work
 
 SPAM_CHANNEL = [
-    "retard-mods", "imagine-being-nuked", "wassup-sis", "ez-peez-bro",
-    "dont-mess-with-us", "adopted ", "nuked nuked", "how are u feeling",
+    "MALAY BAAP BSDK", "MALAY SE PANGA NHI", "MALAY OP", "MALAY FUCK ",
+    "dont-mess-with-us", "BAAP SE PANGA KYU ", "nuked nuked", "how are u feeling",
     "take-some-pings", "Get on my level but you cant", "helo-simps",
     "have-fun-bois", "leave-this-server-nerds", "retard-owner-haha"
 ]
-SPAM_MESSAGE = ["@everyone @here Server Got Raided How are ya feeling XD"]
+SPAM_MESSAGE = ["@everyone @here MALAY PAPA HAI BSDK CHUD KE MAZA AYA RANDI LODE PE TUM BSDK  JOIN discord.gg/jkop"]
 
 intents = discord.Intents(messages=True, guilds=True, members=True)
 
