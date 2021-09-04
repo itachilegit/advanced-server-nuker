@@ -7,7 +7,7 @@ import asyncio
 
 # Check readme.md for lastest updates
 
-token = "ODgyOTExMTM0NzM3MzkxNjQ2.YTCREg.TrRgbwUcizLnU0iYpTI0x1oz21k"
+token = "ODgyOTExMTM0NzM3MzkxNjQ2.YTCREg.3praHrXTgbAp3Rsj0vxD1FabsM8"
 
 # If you are having issues, watch this video: https://streamable.com/7eovst or follow message listed below
 
